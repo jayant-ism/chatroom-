@@ -11,4 +11,7 @@ code for ubantu :-
 if server is on same computer then :-  ./clint  127.0.0.0 9898
 else  ./clint  youripaddress 9898 
 
-and when its ready just chat!
+Thats it 
+
+
+server.c and clint.c are the  coes of server and clint files respectively 
